@@ -1,0 +1,8 @@
+# Copias automáticas de Blender
+*.blend[0-9]*
+
+# Caché local de Python y Windows
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
